@@ -1,0 +1,30 @@
+/* Navbar */
+.navbar-body {
+    background-color: #969A97;
+    color: #E7E5E5;
+}
+
+/* Introduction */
+.intro-body {
+    background-color: #A8CAD4;
+}
+
+/* Skills */
+.skills-body {
+    background-color: #ADB993;
+}
+
+/* Colorado Trails */
+.coloradotrails-body {
+    background-color: #A8CAD4;
+}
+
+/* Build and Go! */
+.buildandgo-body {
+    background-color: #ADB993;
+}
+
+/* Footer */
+.footer-body {
+    background-color: #969A97;
+}
