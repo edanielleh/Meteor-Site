@@ -4,5 +4,5 @@ import './components.css'
 
 export let coloradotrails = 
 <div className = 'coloradotrails-body'>
-    <h1>Colorado Trails</h1>
+    <h1 className = 'coloradotrails-body'>Colorado Trails</h1>
 </div>

@@ -4,5 +4,5 @@ import './components.css'
 
 export let footer = 
 <div className = 'footer-body'>
-    <h1>Footer</h1>
+    <h1 className = 'footer-body'>Footer</h1>
 </div>

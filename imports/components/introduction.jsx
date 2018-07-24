@@ -4,5 +4,5 @@ import './components.css'
 
 export let introduction = 
 <div className = 'intro-body'>
-    <h1>Introduction</h1>
+    <h1 className = 'intro-body'>Introduction</h1>
 </div>

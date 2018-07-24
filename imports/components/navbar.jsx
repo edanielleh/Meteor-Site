@@ -4,5 +4,5 @@ import './components.css'
 
 export let navbar = 
 <div className = 'navbar-body'>
-    <h1>NavBar</h1>
+    <h1 className = 'navbar-body'>NavBar</h1>
 </div>

@@ -12,7 +12,7 @@ import { footer } from './../imports/components/footer.jsx';
 
 Meteor.startup(function(){
     let jsx = (
-    <div style = {{'backgroundColor': '#E7E5E5'}}>
+    <div style = {{'backgroundColor': '#E7E5E5', 'overflow': 'scroll'}}>
         <div> { navbar } </div>
         <div> { introduction } </div>
         <div> { skills } </div>
