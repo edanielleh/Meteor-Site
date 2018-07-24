@@ -8,7 +8,23 @@
 /* Introduction */
 .intro-body {
     background-color: #A8CAD4;
-    margin: 0 0 0 0;
+    margin: 0% 0 0 0%;
+}
+
+.intro-image {
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.4),
+        rgba(0, 0, 0, 0.4)
+), url('/background.png');
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: 100% 100%;
+}
+
+.intro-h1 {
+    text-align: center;
+    padding-top: 5%;
+    color: #E7E5E5;
 }
 
 /* Skills */
