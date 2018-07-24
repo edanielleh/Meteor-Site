@@ -1,5 +1,5 @@
 {
-  "name": "Boilerplate",
+  "name": "Portfolio",
   "private": true,
   "scripts": {
     "start": "meteor run"
