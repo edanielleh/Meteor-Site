@@ -27,6 +27,18 @@
     color: #E7E5E5;
 }
 
+.intro-linkedin {
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 2%;
+}
+
+.intro-github {
+}
+
+.intro-btn-row {
+    margin-top: 5%;
+}
 /* Skills */
 .skills-body {
     background-color: #ADB993;
