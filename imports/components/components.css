@@ -8,7 +8,43 @@
 /* Introduction */
 .intro-body {
     background-color: #A8CAD4;
-    margin: 0 0 0 0;
+    margin: 0% 0 0 0%;
+}
+
+.intro-image {
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.4),
+        rgba(0, 0, 0, 0.4)
+    ), url('/background.png');
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: 100% 100%;
+}
+
+.intro-h1 {
+    text-align: center;
+    padding-top: 5%;
+    color: #E7E5E5;
+}
+
+.intro-linkedin {
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 2%;
+    padding: 1% 1% 1% 1%;
+    border-radius: 25%;
+    font-size: 110%;
+    color:#0e1111;
+    background-color: #E7E5E5;
+}
+
+.intro-github {
+    color:#0e1111;
+    background-color: #E7E5E5;
+    padding: 1% 1% 1% 1%;
+    border-radius: 25%;
+    font-size: 110%;
 }
 
 /* Skills */
